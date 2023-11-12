@@ -92,9 +92,9 @@ body {
     .col-lg-11, .col-lg-12 {
         float: left;
     }
+    
     .navbar-brand h1 {
-        font-size: 3em;
-    }
+    font-size: 3em;}
     p  {color: rgb(9, 47, 9);} 
 .col-lg-1 {
     width: 8.33%;
@@ -143,6 +143,9 @@ body {
         float: left;
     }
     p {color:  #5d0505;}
+    .navbar-brand h1 {
+      font-size: 4rem;
+    }
 .col-md-1 {
     width: 8.33%;
 }
@@ -218,7 +221,7 @@ section h2 {
 
 section p { 
  padding: 20px 15px 15px 15px;
-
+ 
 }
 
 
